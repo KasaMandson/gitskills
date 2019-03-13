@@ -72,18 +72,6 @@ git clone git@github.com:KasaMandson/gitskills.git ssh协议
 
 
 ## 三、分支管理
-Creating a new branch is quick. This is dev branch ~
-
-<<<<<<< HEAD
-I am testmerge branch, just test merge and this text from master~
-
-WTF Y ? HOW TO and simple.
-=======
-I am testmerge branch, just test merge ~
-
-WTF Y ? HOW TO and simple.
->>>>>>> testmerge
-
 
 #### 3.1 创建与合并分支
 
@@ -103,18 +91,24 @@ Git鼓励大量使用分支：
 
 
 
+#### 3.2 解决合并冲突
+
+当Git无法自动合并分支时，就必须首先解决冲突。解决冲突后，再提交，合并完成。
+
+解决冲突就是把Git合并失败的文件手动编辑为我们希望的内容，再提交。
+
+用`git log --graph`命令可以看到分支合并图。
+
+
+
+#### 3.3 分支管理策略
 
 
 
 
 
-I am master branch ~
+
 
 待续...
 
-Thanks to 
-
-[廖雪峰]: https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000	"廖雪峰的Git教程"
-
-
-
+以上所有教程均来自廖雪峰的Git教程(https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
