@@ -110,12 +110,11 @@ Git鼓励大量使用分支：
 
 I am master branch ~
 
-
 待续...
 
-```
-Thanks to [廖雪峰][1]
-```
+Thanks to 
 
-[1]: https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000 "LiaoXueFeng"
+[廖雪峰]: https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000	"廖雪峰的Git教程"
+
+
 
