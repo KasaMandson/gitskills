@@ -76,6 +76,8 @@ Creating a new branch is quick. This is dev branch ~
 
 Creating a new branch , this is feature1 branch~
 
+I am master branch ~
+
 #### 3.1 创建与合并分支
 
 Git鼓励大量使用分支：
