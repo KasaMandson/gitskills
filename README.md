@@ -72,5 +72,5 @@ git clone git@github.com:KasaMandson/gitskills.git ssh协议
 
 
 ## 分支管理
-
+Creating a new branch is quick. This is dev branch ~
 待续...
