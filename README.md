@@ -76,7 +76,7 @@ Creating a new branch is quick. This is dev branch ~
 
 I am testmerge branch, just test merge ~
 
-
+WTF Y ? HOW TO and simple.
 
 
 #### 3.1 创建与合并分支
