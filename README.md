@@ -74,6 +74,9 @@ git clone git@github.com:KasaMandson/gitskills.git ssh协议
 ## 三、分支管理
 Creating a new branch is quick. This is dev branch ~
 
+I am testmerge branch, just test merge ~
+
+
 
 
 #### 3.1 创建与合并分支
